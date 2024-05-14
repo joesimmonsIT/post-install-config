@@ -216,7 +216,7 @@ Select "Set Password". <br /> <br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/870nYz0.png"/>
+<img src="https://i.imgur.com/FDRzJld.png"/>
 </p>
 <p>
 Uncheck "Send the agent a personal rest email". <br /> <br />
@@ -224,14 +224,6 @@ Create Password. <br /> <br />
 Re-Enter Password. <br /> <br />
 Uncheck "Require password change at next login". <br /> <br />
 Select "Set". <br /> <br />
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/FDRzJld.png"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
