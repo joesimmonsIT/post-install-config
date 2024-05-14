@@ -78,7 +78,8 @@ Click "Add Role".
 <img src="https://i.imgur.com/FCAuiTl.png"/>
 </p>
 <p>
-"Supreme Admin" role has been successfully been added to roles.
+"Supreme Admin" role has been successfully been added to roles. <br /> <br />
+Select "Departments". <br /> <br />
 </p>
 <br />
 
