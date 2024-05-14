@@ -96,7 +96,7 @@ Click "+ Add New Department"
 <img src="https://i.imgur.com/KqKn25R.png"/>
 </p>
 <p>
-Name: Select desired name, for this tutorial we will be using "System Administrators".
+Name: Select desired name, for this tutorial we will be using "System Administators".
 </p>
 <br />
 
@@ -104,7 +104,7 @@ Name: Select desired name, for this tutorial we will be using "System Administra
 <img src="https://i.imgur.com/CE0DzOM.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+System Administators has been successfully added to Departments.
 </p>
 <br />
 
