@@ -249,7 +249,8 @@ Select "Create". <br /> <br />
 <img src="https://i.imgur.com/rasLB1n.png"/>
 </p>
 <p>
-Jane Doe has successfully been added to the Agents Group.
+Jane Doe has successfully been added to the Agents Group. <br /> <br />
+Select "+Add New Agent". <br /> <br />
 </p>
 <br />
 
