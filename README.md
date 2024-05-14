@@ -104,8 +104,8 @@ Name: Select desired name, for this tutorial we will be using "System Administat
 <img src="https://i.imgur.com/CE0DzOM.png"/>
 </p>
 <p>
-Select "Access".
-Select "Create Dept".
+Select "Access". <br /> <br />
+Select "Create Dept". <br /> <br />
 </p>
 <br />
 
