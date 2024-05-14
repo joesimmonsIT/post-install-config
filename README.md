@@ -104,7 +104,8 @@ Name: Select desired name, for this tutorial we will be using "System Administat
 <img src="https://i.imgur.com/CE0DzOM.png"/>
 </p>
 <p>
-System Administators has been successfully added to Departments.
+Select "Access".
+Select "Create Dept".
 </p>
 <br />
 
@@ -112,7 +113,7 @@ System Administators has been successfully added to Departments.
 <img src="https://i.imgur.com/rIdg3cC.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+System Administators has been successfully added to Departments.
 </p>
 <br />
 
