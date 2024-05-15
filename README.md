@@ -258,7 +258,10 @@ Select "+Add New Agent". <br /> <br />
 <img src="https://i.imgur.com/cU9u8Z5.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Name: Select the desired name, for this tutorial we will be using John Doe. <br /> <br /> 
+Email Address: Select the desired email address, for this tutorial we will be using "john.doe@easyit.com. <br /> <br /> 
+Username: John.Doe. <br /> <br /> 
+Select "Set Password". <br /> <br /> 
 </p>
 <br />
 
