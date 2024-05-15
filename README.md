@@ -445,7 +445,10 @@ Select "+ Add New SLA Plan". <br /> <br />
 <img src="https://i.imgur.com/oakKS56.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Name: Select the desired name, for this tutorial we will be using "Sev C". <br /> <br />
+Grace Period: Select the desired time, for this tutorial we will be using "8 (in hours)". <br /> <br />
+Schedule: Select the desired schedule, for this tutorial we will be using " Monday-Friday 8 am -5pm with US Holidays". <br /> <br />
+Select "Add Plan". <br /> <br />
 </p>
 <br />
 
