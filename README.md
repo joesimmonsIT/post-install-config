@@ -351,7 +351,8 @@ Karen Palmer has successfully been created as a User.
 <img src="https://i.imgur.com/M9gDb21.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select "Users". <br /> <br />
+Select "+ Add User". <br /> <br />
 </p>
 <br />
 
@@ -359,7 +360,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/HFJXtgv.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Email Address: Ken.Jobs@ easyit.com. <br /> <br />
+Full Name: Ken Jobs. <br /> <br />
+Select "Add User". <br /> <br />
 </p>
 <br />
 
