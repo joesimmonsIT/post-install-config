@@ -493,17 +493,11 @@ Select "+ Add New Help Topic". <br /> <br />
 <img src="https://i.imgur.com/yAajVv8.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Topic: Select desired topic name, for this tutorial we will be using "Personal Computer Issues". <br /> <br />
+Select "Add Topic". <br /> <br />
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/H1zJ0EM.png"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/5bWn1mJ.png"/>
