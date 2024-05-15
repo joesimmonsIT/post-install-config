@@ -405,7 +405,10 @@ Select "+ Add New SLA Plan".
 <img src="https://i.imgur.com/oPRkmJl.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Name: Select the desired name, for this tutorial we will be using "Sev A". <br /> <br />
+Grace Period: Select the desired time, for this tutorial we will be using "1 (in hours)". <br /> <br />
+Schedule: Select the desired schedule, for this tutorial we will be using "24/7". <br /> <br />
+Select "Add Plan". <br /> <br />
 </p>
 <br />
 
@@ -413,7 +416,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/HQ8TII2.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Sev A SLA Plan has been add to SLA Group.
 </p>
 <br />
 
