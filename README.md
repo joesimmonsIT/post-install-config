@@ -538,7 +538,7 @@ Select "Add Topic". <br /> <br />
 <img src="https://i.imgur.com/UvYalBg.png"/>
 </p>
 <p>
-Password Reset has been added to Help Topic Group. <br /> <br />
+Password Reset has been added to Help Topics Group. <br /> <br />
 All current Help Topics are shown on the Help Topics Home Page. <br /> <br />
 Congratulations you have completed this tutortial! <br /> <br />
 </p>
