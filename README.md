@@ -425,7 +425,10 @@ Select "+ Add New SLA Plan". <br /> <br />
 <img src="https://i.imgur.com/Hmnn7ns.png"/>
 </p>
 <p>
-
+Name: Select desired name, for this tutorial we will be using "Sev B". <br /> <br />
+Grace Period: Select the desired time, for this tutorial we will be using "4 (in hours)". <br /> <br />
+Schedule: Select the desired schedule, for this tutorial we will be using "24/7". <br /> <br />
+Select "Add Plan". <br /> <br />
 </p>
 <br />
 
