@@ -416,7 +416,8 @@ Select "Add Plan". <br /> <br />
 <img src="https://i.imgur.com/HQ8TII2.png"/>
 </p>
 <p>
-Sev A SLA Plan has been add to SLA Group.
+Sev A SLA Plan has been add to SLA Group. <br /> <br />
+Select "+ Add New SLA Plan". <br /> <br />
 </p>
 <br />
 
@@ -424,7 +425,7 @@ Sev A SLA Plan has been add to SLA Group.
 <img src="https://i.imgur.com/Hmnn7ns.png"/>
 </p>
 <p>
-Select "+ Add New SLA Plan".
+
 </p>
 <br />
 
