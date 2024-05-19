@@ -260,7 +260,7 @@ Select "+Add New Agent". <br /> <br />
 <p>
 Name: Select the desired name, for this tutorial we will be using John Doe. <br /> <br /> 
 Email Address: Select the desired email address, for this tutorial we will be using "john.doe@easyit.com. <br /> <br /> 
-Username: John.Doe. <br /> <br /> 
+Username: "John.Doe". <br /> <br /> 
 Select "Set Password". <br /> <br /> 
 </p>
 <br />
